@@ -1,1 +1,2 @@
 npm create sanity@latest -- --template get-started --project bkmq5xrv --dataset production --provider google
+npm create sanity@latest -- --project bkmq5xrv --dataset production --provider google
